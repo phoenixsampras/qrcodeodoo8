@@ -95,7 +95,7 @@
             <field name="name">view.qr.code.tree</field>
             <field name="model">qr.code</field>
             <field name="arch" type="xml">
-                <tree string="Dosificacion Tienda" version="7.0">
+                <tree string="Dosificacion Tienda">
                     <field name="auth_number" />
                     <field name="nit_code_comapny"/>
                     <field name="company_name"/>
@@ -108,7 +108,7 @@
             <field name="name">view.qr.code.form</field>
             <field name="model">qr.code</field>
             <field name="arch" type="xml">
-                <form string="Dosificacion Tienda" version="7.0">
+                <form string="Dosificacion Tienda">
                     <sheet>
                         <group col="4" colspan="4">
                             <field name="auth_number" required="1"/>

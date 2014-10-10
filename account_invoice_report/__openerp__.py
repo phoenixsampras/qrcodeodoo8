@@ -22,7 +22,7 @@
 
 {
     'name' : 'Invoice QR Code Report',
-    'version' : '1.0',
+    'version' : '0.01',
     'author' : 'Serpent Consulting Services Pvt. Ltd.',
     'category' : 'Accounting',
     'description' : """
